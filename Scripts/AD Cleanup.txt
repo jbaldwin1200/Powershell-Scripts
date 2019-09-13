@@ -1,0 +1,10 @@
+Computers in MyIGT domain AD that need deleted because they are misnamed (Ex. USFLFP-1007503 and USFL-FP-1007503) One is the correct computer name currently being used, the other is disabled on AD and needs deleted
+
+USFL-FP-1007180
+USFLFP-1007503
+USFL-FP-1008575
+USFLFP-D1005991
+USFL-FP-D30383
+USFLFPDBAEZ-VM
+USFLFP-N1006029
+USLALMDINAN1

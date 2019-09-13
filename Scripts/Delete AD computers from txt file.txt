@@ -1,0 +1,1 @@
+Get-Content -Path C:\deletions.txt | Remove-ADComputer 

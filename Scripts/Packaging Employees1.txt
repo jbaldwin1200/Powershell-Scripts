@@ -1,0 +1,119 @@
+Minor Marvin                        mxminor        FL, PACKER I                12/30/2018 2:14:31 AM 
+Horn Susana [shorn]                 shorn          FL, PACKAGE ASSEMBLER       5/27/2018 9:18:20 PM  
+Reaves Jevonte [jreaves]            jreaves        FL, PACKER I                7/17/2019 5:40:43 PM  
+Lashley Brandon                     BLASHLEY       FL, LEAD PACKER             7/18/2019 7:01:41 PM  
+Alvarez Hector                      HALVAREZ       FL, LEAD PACKER             7/21/2019 10:49:37 PM 
+Castro Saira                        SCastro        FL, LEAD PACKER             7/17/2019 8:18:58 AM  
+Gousby Tamara                       TGOUSBY        FL, PACKER I                12/29/2018 9:52:08 PM 
+Phillips Lucinda [lphillips]        lphillips      FL, PACKER I                                      
+Jones Dekeisha                      dxjones        FL, LEAD PACKER             7/22/2019 1:28:16 PM  
+Garcia Segura Heralit               hxgarcia       FL, PACKER I                12/31/2018 11:50:08 AM
+Johnson Garry                       GXJOHNSON      FL, PACKER I                                      
+Townes Angela                       ATOWNES        FL, PACKER I                                      
+Ascanio, Victor                     vascanio       FL, PACKER I                                      
+Pedragon Catal Michelle [mpedragon] mpedragon      FL, PACKER I                12/31/2018 11:55:39 AM
+Mcdaniel Edelwina [emcdaniel]       emcdaniel      FL, PACKER I                                      
+Manzano Lucero [LMANZANO]           LMANZANO       FL, PACKER I                12/30/2018 7:41:17 AM 
+St Val Mimose [mstval]              mstval         FL, PACKER I                                      
+Dorsey Anita                        adorsey        FL, PACKER I                12/30/2018 7:47:01 AM 
+Lugo Juanita                        jlugo          FL, PACKER I                                      
+Winters Angela                      AWINTERS       FL, PACKER I                1/11/2019 5:05:45 PM  
+Flores Veronica                     VFLORES        FL, PACKER I                                      
+Rodriguez Olga                      orodriguez     FL, PACKER I                                      
+Bush Niya                           nbush          FL, PACKER I                                      
+Saucedo Esperanza                   esaucedo       FL, PACKER I                12/29/2018 10:45:23 PM
+Malave Betzabe                      bmalave        FL, PACKER I                12/31/2018 11:52:53 AM
+Sandoval Lorena                     LSANDOVAL      FL, PACKER II                                     
+Rosales Gomez Jannett               KGOMEZMARTIN   FL, PACKER I                12/31/2018 11:58:30 AM
+Chang Rose                          RCHANG         FL, PACKER I                                      
+Donna Grear                         dgrear         FL, PACKER I                12/31/2018 11:58:55 AM
+Washington Sierra                   SWASHINGTON    FL, PACKER I                                      
+Irizarry Faye                       firizarry      FL, PACKER I                12/30/2018 7:48:07 AM 
+Castro Mercedes                     mcastro        FL, PACKER II                                     
+Stogdill Tamara                     tstogdill      FL, PACKER I                12/31/2018 11:59:25 AM
+Lopez Mendez Marisol                MYLOPEZ        FL, PACKER I                12/31/2018 11:51:05 AM
+Macias Relina                       rmacias        FL, PACKER I                12/31/2018 11:51:44 AM
+Carbajal Maria                      mcarbajal      FL, PACKER I                12/31/2018 11:57:23 AM
+Cantwell Joseph                     jcantwell      FL, PACKER I                12/29/2018 9:38:08 PM 
+Salazar Ismael                      isalazar       FL, PACKER I                1/8/2019 4:43:56 AM   
+Dawson Aaron                        adawson        FL, PACKER I                12/29/2018 9:00:52 PM 
+Martinez Angenith [azmartinez]      azmartinez     FL, PACKER ASSEMBLER        8/28/2018 2:01:26 AM  
+Garcia Brenda [bxgarcia]            bxgarcia       FL, PACKER ASSEMBLER        3/8/2019 6:53:09 AM   
+Carter Jerry [jxcarter]             jxcarter       FL, PACKER ASSEMBLER        7/16/2019 2:55:57 AM  
+Cadd Marissa [mcadd]                mcadd          FL, PACKER I                12/29/2018 10:26:08 PM     
+Anzaldua Javier            	    janzaldua      FL, PRESS OPERATOR SR        7/15/2019 12:38:16 PM
+Harris Joel                	    jzharris       FL, PRESS OPERATOR           7/23/2019 2:19:08 AM 
+Martinez Jr Leobardo       	    lmartinezjr    FL, PRESS OPERATOR           5/22/2019 4:07:20 AM 
+Ramirez Oscar              	    oxramirez      FL, PRESS OPERATOR EL        3/8/2019 3:35:18 AM  
+Root Kenneth               	    kroot          FL, PRESS OPERATOR LEAD      7/18/2019 7:17:20 AM 
+Jones James                	    JXYJONES       FL, PRESS OPERATOR EL        2/1/2019 6:02:52 AM  
+Casiano Leonaldo           	    lcasianoburg   FL, PRESS OPERATOR LEAD      7/22/2019 1:04:58 AM 
+Duran Edward               	    eduran         FL, PRE PRESS SPECIALIST     7/15/2019 2:05:25 PM 
+Cowan Michael              	    MCOWAN         FL, PRESS OPERATOR II        7/11/2019 11:05:45 AM
+Gerlosky Gregory           	    ggerlosky      FL, PRESS OPERATOR LEAD      7/18/2019 7:45:38 PM 
+Molina Albaro              	    aymolina       FL, PRESS OPERATOR LEAD      7/19/2019 7:58:00 PM 
+Seitz Timothy              	    tseitz         FL, PRESS OPERATOR LEAD      7/16/2019 6:13:10 AM 
+Stromberg Aaron            	    astromberg     FL, PRESS OPERATOR SR        7/17/2019 11:49:42 PM
+White Michael              	    mxwhite        FL, PRESS OPERATOR EL        7/15/2019 12:14:17 PM
+Lopez Rojas Alfredo        	    AXLOPEZ        FL, PRESS OPERATOR EL        12/30/2018 8:43:38 AM
+Gomez Jr. Guillermo        	    ggomez         FL, PRESS OPERATOR LEAD      7/21/2019 5:45:37 AM 
+Drake Jr David [ddrake]   	    ddrake         FL, PRESS OPERATOR           5/8/2019 5:08:55 AM  
+Driscoll James             	    JDRISCOLL      FL, PRESS OPERATOR I         1/18/2019 4:58:03 PM 
+Hugh Richard               	    rhugh          FL, PRESS OPERATOR II        7/17/2019 7:40:42 AM 
+Galvan Victor              	    vgalvan        FL, DIGITAL PRESS TECHNICIAN 7/9/2019 2:12:39 PM  
+Mendoza Ray                	    RMENDOZA       FL, PRESS OPERATOR EL        12/29/2018 7:25:57 PM
+Fox Edward                 	    EFOX           FL, PRESS OPERATOR SR        7/9/2019 7:17:40 AM  
+Buratti Michael [mburatti] 	    mburatti       FL, PRESS OPERATOR           7/21/2019 6:24:50 PM       
+Lopez Matthew [mxxlopez] 	    mxxlopez       FL, UTILITY OPERATOR II                     
+Vazquez Adalberto        	    avazquez       FL, UTILITY OPERATOR        7/22/2019 5:42:03 AM        
+Anzaldua Javier              	    janzaldua      FL, PRESS OPERATOR SR       7/15/2019 12:38:16 PM 
+Cortinas Jacinto             	    jcortinas      FL, IMAGER OPERATOR         7/7/2019 6:10:59 PM   
+Harris Joel                  	    jzharris       FL, PRESS OPERATOR          7/23/2019 2:19:08 AM  
+Kraft Paul                   	    PKRAFT         FL, IMAGER OPERATOR         7/11/2019 6:20:46 AM  
+Martinez Jr Leobardo         	    lmartinezjr    FL, PRESS OPERATOR          5/22/2019 4:07:20 AM  
+Ramirez Oscar                	    oxramirez      FL, PRESS OPERATOR EL       3/8/2019 3:35:18 AM   
+Schloo William               	    WSCHLOO        FL, IMAGER OPERATOR         7/10/2019 6:01:21 PM  
+Lapira Kimby                 	    KLAPIRA        FL, PROCESS OPERATOR II                           
+Root Kenneth                 	    kroot          FL, PRESS OPERATOR LEAD     7/18/2019 7:17:20 AM  
+Velez Stephanie [svelez]     	    svelez         FL, BALER/SHREDDER OPERATOR 12/30/2018 8:41:00 AM 
+Helmick Kabrielle [khelmick] 	    khelmick       FL, FOLDER OPERATOR         11/25/2018 2:09:42 AM 
+Jones James                  	    JXYJONES       FL, PRESS OPERATOR EL       2/1/2019 6:02:52 AM   
+Casiano Leonaldo             	    lcasianoburg   FL, PRESS OPERATOR LEAD     7/22/2019 1:04:58 AM  
+Cowan Michael                	    MCOWAN         FL, PRESS OPERATOR II       7/11/2019 11:05:45 AM 
+Gerlosky Gregory             	    ggerlosky      FL, PRESS OPERATOR LEAD     7/18/2019 7:45:38 PM  
+Molina Albaro                	    aymolina       FL, PRESS OPERATOR LEAD     7/19/2019 7:58:00 PM  
+Seitz Timothy                	    tseitz         FL, PRESS OPERATOR LEAD     7/16/2019 6:13:10 AM  
+Stromberg Aaron              	    astromberg     FL, PRESS OPERATOR SR       7/17/2019 11:49:42 PM 
+White Michael                	    mxwhite        FL, PRESS OPERATOR EL       7/15/2019 12:14:17 PM 
+Lopez Rojas Alfredo          	    AXLOPEZ        FL, PRESS OPERATOR EL       12/30/2018 8:43:38 AM 
+Lopez Matthew [mxxlopez]     	    mxxlopez       FL, UTILITY OPERATOR II                           
+Gomez Jr. Guillermo          	    ggomez         FL, PRESS OPERATOR LEAD     7/21/2019 5:45:37 AM  
+Miller Brandon               	    bymiller       FL, FOLDER OPERATOR         12/31/2018 12:01:57 PM
+Heppner Eyck                 	    eheppner       FL, BALE SHREDDER OPERATOR  6/15/2018 1:12:55 AM  
+Drake Jr David [ddrake]      	    ddrake         FL, PRESS OPERATOR          5/8/2019 5:08:55 AM   
+Vazquez Adalberto            	    avazquez       FL, UTILITY OPERATOR        7/22/2019 5:42:03 AM  
+Paz Juan                     	    jpaz           FL, MACHINE OPERATOR I      7/17/2019 11:50:50 PM 
+Driscoll James               	    JDRISCOLL      FL, PRESS OPERATOR I        1/18/2019 4:58:03 PM  
+Reid Charles [CREID]         	    CREID          FL, FOLDER OPERATOR         12/31/2018 12:04:33 PM
+Hugh Richard                 	    rhugh          FL, PRESS OPERATOR II       7/17/2019 7:40:42 AM  
+Mendoza Ray                  	    RMENDOZA       FL, PRESS OPERATOR EL       12/29/2018 7:25:57 PM 
+Fox Edward                   	    EFOX           FL, PRESS OPERATOR SR       7/9/2019 7:17:40 AM   
+Buratti Michael [mburatti]   	    mburatti       FL, PRESS OPERATOR          7/21/2019 6:24:50 PM  
+Hoeppner Alan                	    AHOEPPNER      FL, BALER/SHREDDER OPERATOR 12/29/2018 7:52:26 PM 
+Zimmerman Michael            	    mzimmerman     FL, FOLDER OPERATOR         6/7/2019 4:44:37 AM   
+Andorf Ciancio Timothy       	    tandorf        FL, FOLDER OPERATOR EL      7/1/2019 9:00:11 AM   
+Clyne Jamieann               	    jclyne         FL, FOLDER OPERATOR         12/30/2018 8:44:19 AM 
+Coffey Daniel                	    dcoffey        FL, FOLDER OPERATOR EL      7/15/2018 4:42:55 AM 
+Estrada Porfirio 	    	    pestrada       FL, INK TENDER     	       8/6/2018 1:29:36 AM  
+McDermott Robert 	    	    rmcdermott     FL, INK TENDER                          
+Ricardo Noel     	    	    RNOEL          FL, INK TENDER     	       12/29/2018 7:57:00 PM 
+Neal Sydney  	    	    	    SNEAL          FL, PALLET AUDIT TECHNICIAN 7/14/2019 6:40:51 PM
+Croka Joyce  	    	    	    jcroka         FL, PALLET AUDIT TECHNICIAN 7/17/2019 8:10:52 AM
+Torres Reyna 	    	    	    RYTORRES       FL, PALLET AUDITOR          7/11/2019 7:00:12 PM      
+Helmick Kabrielle [khelmick] 	    khelmick       FL, FOLDER OPERATOR         11/25/2018 2:09:42 AM 
+Miller Brandon               	    bymiller       FL, FOLDER OPERATOR    	12/31/2018 12:01:57 PM
+Zimmerman Michael            	    mzimmerman     FL, FOLDER OPERATOR    	6/7/2019 4:44:37 AM   
+Andorf Ciancio Timothy       	    tandorf        FL, FOLDER OPERATOR EL 	7/1/2019 9:00:11 AM   
+Coffey Daniel                	    dcoffey        FL, FOLDER OPERATOR EL 	7/15/2018 4:42:55 AM
+Kraft Paul       		    PKRAFT         FL, IMAGER OPERATOR 		7/11/2019 6:20:46 AM
+Schloo William   		    WSCHLOO        FL, IMAGER OPERATOR 		7/10/2019 6:01:21 PM

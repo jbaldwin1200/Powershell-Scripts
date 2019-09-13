@@ -1,0 +1,1 @@
+Get-ADComputer -identity uslaldjbaldwin -Properties * | FT Name, LastLogonDate

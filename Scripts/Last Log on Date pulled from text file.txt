@@ -1,0 +1,1 @@
+get-content "C:\users.txt"| Foreach-Object {Get-ADUser -Filter {samaccountname -eq $_}  -properties lastlogondate | select name,lastlogondate }
